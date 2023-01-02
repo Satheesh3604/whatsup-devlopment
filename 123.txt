@@ -6,3 +6,4 @@ https://www.cricbuzz.com/live-cricket-scorecard/53254/indw-vs-mlyw-6th-match-wom
  (//div[@class="cb-col cb-col-100 cb-scrd-hdr-rw"])[1]/../div[@class="cb-col cb-col-100 cb-scrd-itms"]/div[7] new 
 vedio call 
 audio call
+not need
