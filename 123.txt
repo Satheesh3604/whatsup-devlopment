@@ -1,0 +1,16 @@
+(//div[@class="cb-col cb-col-100 cb-scrd-hdr-rw"])[1]/../div[@class="cb-col cb-col-100 cb-scrd-sub-hdr cb-bg-gray"]/div
+(//div[@class="cb-col cb-col-100 cb-scrd-hdr-rw"])[1]/../div[@class="cb-col cb-col-100 cb-scrd-sub-hdr cb-bg-gray"]/div
+
+ ((//div[@class="cb-col cb-col-100 cb-scrd-hdr-rw"])[1]/../div[@class="cb-col cb-col-100 cb-scrd-itms"]/div[1])
+ (//div[@class="cb-col cb-col-100 cb-scrd-hdr-rw"])[1]/../div[@class="cb-col cb-col-100 cb-scrd-itms"]/div[2]
+ (//div[@class="cb-col cb-col-100 cb-scrd-hdr-rw"])[1]/../div[@class="cb-col cb-col-100 cb-scrd-itms"]/div[3]
+ (//div[@class="cb-col cb-col-100 cb-scrd-hdr-rw"])[1]/../div[@class="cb-col cb-col-100 cb-scrd-itms"]/div[4]
+ (//div[@class="cb-col cb-col-100 cb-scrd-hdr-rw"])[1]/../div[@class="cb-col cb-col-100 cb-scrd-itms"]/div[5]
+ (//div[@class="cb-col cb-col-100 cb-scrd-hdr-rw"])[1]/../div[@class="cb-col cb-col-100 cb-scrd-itms"]/div[6]
+ (//div[@class="cb-col cb-col-100 cb-scrd-hdr-rw"])[1]/../div[@class="cb-col cb-col-100 cb-scrd-itms"]/div[7]
+
+(//div[@class="cb-col cb-col-100 cb-scrd-sub-hdr cb-bg-gray text-bold"])
+(//div[@class="cb-col cb-col-100 cb-col-rt cb-font-13"])[1]
+//div[@id="innings_1"]/div[@class="cb-col cb-col-100 cb-col-rt cb-font-13"]/span
+
+https://www.cricbuzz.com/live-cricket-scorecard/53254/indw-vs-mlyw-6th-match-womens-asia-cup-t20-2022
