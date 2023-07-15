@@ -10,3 +10,5 @@ static void StrRevBulider()
 		StringBuffer s = new StringBuffer(name);
 		System.out.println(s.reverse());		
 	}
+
+}
