@@ -1,0 +1,12 @@
+static void StrRevBulider()
+	{
+		String name = "java";
+		StringBuffer s = new StringBuffer(name);
+		System.out.println(s.reverse());		
+	}
+static void StrRevBulider()
+	{
+		String name = "java";
+		StringBuffer s = new StringBuffer(name);
+		System.out.println(s.reverse());		
+	}
